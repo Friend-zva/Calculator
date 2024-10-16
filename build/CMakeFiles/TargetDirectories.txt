@@ -1,0 +1,5 @@
+/Users/vladimir/my-projects/task05/5-Friend-zva/build/CMakeFiles/edit_cache.dir
+/Users/vladimir/my-projects/task05/5-Friend-zva/build/CMakeFiles/rebuild_cache.dir
+/Users/vladimir/my-projects/task05/5-Friend-zva/build/src/CMakeFiles/calculator.dir
+/Users/vladimir/my-projects/task05/5-Friend-zva/build/src/CMakeFiles/edit_cache.dir
+/Users/vladimir/my-projects/task05/5-Friend-zva/build/src/CMakeFiles/rebuild_cache.dir
